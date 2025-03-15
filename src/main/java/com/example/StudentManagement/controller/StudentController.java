@@ -79,7 +79,7 @@ public class StudentController {
         return "Hello demo, how is the joh amir ?";
     }
 
-    @GetMapping("demo1")
+    @GetMapping("demoo")
     public String demo1() {
         return "Hello demo, how is the joh amir rahihihihihihihihi?";
     }
